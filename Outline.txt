@@ -1,0 +1,28 @@
+git pullTitle Doc
+
+Heading block
+<img>
+
+Navigation Bar
+<style>
+
+Home MEME
+
+
+Bio:
+Education
+Hobbies
+Experience
+
+Projects:
+"Eulysses's Gaming"
+"Topos"
+"Canna Care Crates"
+
+Contact:
+<email>
+<phone>
+<linkedIn>
+<FB>
+<Instgm>
+<Twitter>
